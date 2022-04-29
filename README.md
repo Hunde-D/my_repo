@@ -1,2 +1,2 @@
-# my_rep
+# my_repo
 just exercising :)
